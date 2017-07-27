@@ -1,0 +1,6 @@
+ro.chipname=MSM8953
+ro.arch=msm8953
+ro.lcd_brightness=162
+ro.sf.lcd_density=420
+ro.hardware.keystore=msm8953
+persist.sys.usb.config=mtp,adb
