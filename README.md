@@ -11,5 +11,5 @@ Add to `.repo/local_manifests/c7proltechn.xml`:
 
 Then run `repo sync` to check it out.
 
-Kernel sources are available at: https://github.com/inanloukarim/android_kernel_samsung_msm8953/tree/twrp-6.0
+Kernel sources are available at: https://github.com/inanloukarim/kernel_samsung_msm8953.git
 
